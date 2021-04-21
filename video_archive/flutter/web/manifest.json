@@ -1,9 +1,9 @@
 {
-    "name": "family_videos_flutter",
+    "name": "Video Insights",
     "short_name": "family_videos_flutter",
     "start_url": ".",
     "display": "standalone",
-    "description": "Family videos json.",
+    "description": "Video-Inshgts json.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

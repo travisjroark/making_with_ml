@@ -100,7 +100,6 @@ async function analyzeVideo(object) {
     features: [
       'LABEL_DETECTION',
       'SHOT_CHANGE_DETECTION',
-      'TEXT_DETECTION',
       'SPEECH_TRANSCRIPTION',
     ],
     videoContext: videoContext,
